@@ -5,7 +5,10 @@ TagManager:
   serializedVersion: 2
   tags:
   - PickUp
-  - PickUp2
+  - Ground
+  - Killer
+  - DeadPlayer
+  - Collectible
   layers:
   - Default
   - TransparentFX
